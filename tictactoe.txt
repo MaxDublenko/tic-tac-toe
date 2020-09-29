@@ -1,0 +1,26 @@
+You may code wherever you want.
+
+Ideas / Challenges:
+
+(All organized from easiest to hardest)
+
+Easy
+- Make a "restart" button
+- Make it so you can choose if you're Xs or Os
+- Make it so you can choose what color X and O are
+- Create a function called checkWin() that checks if someone wins, then make something happen if someone wins
+
+Medium
+- Create a button to takeback your move
+- Create a button to make the computer chose a move for you
+- Create a move timer for both players
+- Create a button to give your opponent 15 seconds (or however much you want)
+- Create a button to rotate the board 90+ degrees each time you click it
+
+Hard
+- Create an input element that allows you to choose the size of the board
+- Create a way to save your game(s) and access them from a button called "load"
+- Create a way to play against the computer
+
+Impossible (only if you have an extra week or two)
+- Create a way to play the game in 3D

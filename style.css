@@ -1,0 +1,20 @@
+#container {
+  width: 600px;
+  margin: auto;
+  margin-top: 60px;
+}
+
+#container div {
+  width: 198px;
+  height: 198px;
+  border: 1px solid black;
+  float: left;
+}
+
+.blue {
+  background-color: rgb(73, 244, 231);
+}
+
+.red {
+  background-color: red;
+}
