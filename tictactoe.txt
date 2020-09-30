@@ -1,13 +1,15 @@
 You may code wherever you want.
 
-Ideas / Challenges:
+Ideas / Challenges (optional):
 
-(All organized from easiest to hardest)
+All organized from easiest to hardest
+Try to have complete as many as you can from each section
 
 Easy
 - Make a "restart" button
 - Make it so you can choose if you're Xs or Os
 - Make it so you can choose what color X and O are
+- Make Xs and Os actual X and O shapes when they appear on the board
 - Create a function called checkWin() that checks if someone wins, then make something happen if someone wins
 
 Medium
@@ -23,4 +25,4 @@ Hard
 - Create a way to play against the computer
 
 Impossible (only if you have an extra week or two)
-- Create a way to play the game in 3D
+- Create a way to play the game in 3D (a 3x3x3 board)
